@@ -1,0 +1,18 @@
+Variables: Una variable es una forma de guardado del valor de 
+algo, la cual se utilizara más tarde. La reconoceremos por su 
+palabra clave "var".
+Strings: Es un conjunto de palabras que se encuentran entre 
+comillas.
+Funciones (argumentos, return): Las funciones son objetos 
+llamados callable objects y sirven para calcular variables, 
+cambiarlas, hacer algo con ellas.
+         -Argumentos: Estos son variables que con uso de la 
+          coma (,) permite que sean multiples variables.
+         -Return: Sirve para devolver datos de una función
+          según se especifique, por ende, nos devolvera los 
+          datos pedidos de la función que nosotros le pidamos.
+Declaraciones if: Es para el control de flujo y comparación de
+variables dentro de una función.
+Valores booleanos (true, false): Pertenecen a la lógica booleana
+que indica significa que una variable es true o false como
+únicas opciones dentro del lenguaje de Javascript.
