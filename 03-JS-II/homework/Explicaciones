@@ -1,0 +1,11 @@
+For: Es un tipo de bucle, parecido a "if", cuya formula es= 
+for (variable; expresión condicional; incremento de la variable) la variable es sobre lo que se 
+repetira el bucle, la expresión condicional es la declaración por la cual continuará el ciclo 
+hasta que de false y el incremento de la variable es justamente eso, incrementar la variable cada
+vez que se repita el ciclo. 
+&&: Significa Y (And). Es un operador lógico que evalua ambas expresiones para comprobar si cumplen 
+los requisitos indicados, de ser así devuelve true, en cambio si una o ambas expresiones no cumplen los 
+requisitos, devolverá false.
+||: Significa O (Or). Es un operador que devolverá true en caso de que una o ambas de las expresiones 
+cumpla los requisitos especificados y devolverá false si ambas expresiones no son correctas. 
+!: Significa No (Not). Lo que hará será devolvernos lo opuesto a lo indicado en la función.
