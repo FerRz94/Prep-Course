@@ -1,0 +1,5 @@
+Arrays: Sirven para conseguir una colección de tipos de datos (string, números y
+ booleanos) en una sola matriz, declarando una variable y ponerla entre [] 
+ separando con comas dentro para poner tantos tipos de datos como queramos y 
+ acceder a estos cuando deseemos. 
+ Por ejemplo: const nombresEstudiantes = ["Martin", "Antonio", "Sara", "Samuel"].
