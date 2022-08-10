@@ -1,0 +1,5 @@
+Objetos: Son contenedores de mucha información sobre una sola cosa.
+Propiedades: Es la asociación entre clave:valor (key:value).
+Métodos: Son las funciones guardadas en un objeto (.length, .push, etc.).
+Bucle for…in: Sirve para recorrer todas las claves del objetos.
+Notación de puntos vs notación de corchetes: 
