@@ -2,4 +2,5 @@ Objetos: Son contenedores de mucha información sobre una sola cosa.
 Propiedades: Es la asociación entre clave:valor (key:value).
 Métodos: Son las funciones guardadas en un objeto (.length, .push, etc.).
 Bucle for…in: Sirve para recorrer todas las claves del objetos.
-Notación de puntos vs notación de corchetes: 
+Notación de puntos vs notación de corchetes: Con la notación de puntos se llama
+al nombre del objeto, un punto y el nombre de la clave. En cambio, con la notación de corchetes se usa para llamar a un elemento de la matriz mediante el uso de una cadena o número, una variable que apunte a una cadena o número.
