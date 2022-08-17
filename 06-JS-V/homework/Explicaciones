@@ -1,4 +1,5 @@
 prototype: Es una forma de establecer un metodo una vez para darle acceso a cada 
 objeto de esa clase a esos metodos y no llenar la memoria con muchos metodos 
 repetidos. Los metodos prototype pueden acceder a la palabra clave this.
-_Constructors_: 
+_Constructors_: es un metodo especial para crear e inicializar un objeto creado 
+a partir de una clase.
